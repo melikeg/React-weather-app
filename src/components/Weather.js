@@ -98,7 +98,9 @@ function Weather() {
           </span>
 
           <span>
-            <i className="fa-brands fa-github fa-xl"></i>
+            <a href="https://github.com/melikeg/React-weather-app">
+              <i className="fa-brands fa-github fa-xl"></i>
+            </a>
           </span>
         </div>
       </header>
